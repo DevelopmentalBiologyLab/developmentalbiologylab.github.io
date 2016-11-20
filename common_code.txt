@@ -1,7 +1,7 @@
-﻿헤더
-====
+﻿Header
+=======
 			<!-- Header -->
-				<header id="header" class="alt">
+				<header id="header">
 					<h1 id="logo"><a href="index.html">발생 및 분화조절 <span>연구실</span></a></h1>
 					<nav id="nav">
 						<ul>
@@ -14,7 +14,13 @@
 								</ul>
 							</li>
 							<li class="current"><a href=#>Research</a></li>
-							<li class="current"><a href="publications.html">Publications</a></li>
+							<li class="current"><a href="publications.html">Publications</a>
+								<ul>
+									<li><a href="publications.html#journal">Journal</a></li>
+									<li><a href="publications.html#conference">Conference</a></li>
+									<li><a href="publications.html#patent">Patent</a></li>
+								</ul>
+							</li>
 							<li class="submenu"><a href=#>Internal</a>
 								<ul>
 									<li><a href=#>Wiki</a></li>
@@ -23,12 +29,11 @@
 									<li><a href=#>Calendar</a></li>
 								</ul>
 							</li>
-							
-							<li><a href="#" class="button special">Login</a></li>
+
 						</ul>
 					</nav>
 				</header>
 
-풋터
-====
+Footer
+=======
 
